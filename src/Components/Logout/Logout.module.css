@@ -1,0 +1,18 @@
+.btn {
+    background-color: limegreen;
+    outline: none;
+    text-transform: uppercase;
+    height: 38px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #349438;
+}
+
+.mainPageBtn {
+    width: 300px;
+}
